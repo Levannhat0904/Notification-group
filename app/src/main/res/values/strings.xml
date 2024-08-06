@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Example 7.11</string>
+    <string name="channel_name">Main notification channel</string>
+    <string name="channel_description">This is main notification channel of application.</string>
+    <string name="txt_permission_denied">Post notification permission was denied.</string>
+    <string name="text_hint">Enter your message here</string>
+    <string name="text_post_notification">Post Notification</string>
+    <string name="text_notification_title">New Message</string>
+</resources>
